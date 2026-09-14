@@ -2,9 +2,9 @@
 
 <br/>
 
-```
-P R A T U S H   P R A S A D
-```
+<img src="./profile.png" width="180" alt="Pratush Prasad profile picture" />
+
+<h1>𝑷𝒓𝒂𝒕𝒖𝒔𝒉 𝑷𝒓𝒂𝒔𝒂𝒅</h1>
 
 **Full Stack Developer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Critical Thinker**
 
@@ -81,7 +81,7 @@ Fun fact    : I am a Critical Thinker
 
 <div align="center">
 
-<img width="48%" src="https://gh-readme-stats.vercel.app/api?username=coditor-ops&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&hide_title=false" />
+<img width="48%" src="https://gh-readme-stats.vercel.app/api?username=coditor-ops&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&hide_title=false&hide=stars,contribs" />
 &nbsp;
 <img width="48%" src="https://streak-stats.demolab.com/?user=coditor-ops&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=111111&fire=111111&currStreakLabel=111111&sideNums=111111&currStreakNum=111111&sideLabels=777777&dates=777777" />
 
