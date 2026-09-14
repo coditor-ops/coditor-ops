@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/coditor-ops/coditor-ops/main/217785902.png"
+<img src="https://raw.githubusercontent.com/coditor-ops/coditor-ops/main/profile.png"
      width="180"
      alt="Pratush Prasad profile picture" />
 
