@@ -2,7 +2,9 @@
 
 <br/>
 
-<img src="./profile.png" width="180" alt="Pratush Prasad profile picture" />
+<img src="https://raw.githubusercontent.com/coditor-ops/coditor-ops/main/217785902.png"
+     width="180"
+     alt="Pratush Prasad profile picture" />
 
 <h1>𝑷𝒓𝒂𝒕𝒖𝒔𝒉 𝑷𝒓𝒂𝒔𝒂𝒅</h1>
 
