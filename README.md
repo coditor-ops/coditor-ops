@@ -1,91 +1,110 @@
 <div align="center">
 
-# Pratush Prasad
+<br/>
 
-### Critical Thinker • Full Stack Developer • ML Enthusiast
+```
+P R A T U S H   P R A S A D
+```
 
-<img src="https://komarev.com/ghpvc/?username=coditor-ops&label=&color=000000&style=flat" alt=""/>
+**Full Stack Developer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Critical Thinker**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratush-prasad)
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pratushprasad_)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/pratushprasad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pratushprasad_)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23000000.svg?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/stud_hyena_28)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/25bai70559)
+[![Mail](https://img.shields.io/badge/pratushprasad.5398@gmail.com-%23000000.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:pratushprasad.5398@gmail.com)
+
+<br/>
+
+</div>
 
 ---
 
-Currently building [**SmartLinkHub**](https://github.com/coditor-ops/Smart-Link-Hub) • Learning DSA, Cryptography & Cybersecurity
+```yaml
+Currently   : Building SmartLinkHub — an intelligent URL router with geolocation targeting
+Learning    : DSA · Cryptography · Cybersecurity
+Looking for : Collaborators on SmartLinkHub
+Fun fact    : I am a Critical Thinker
+```
 
-[pratushprasad.5398@gmail.com](mailto:pratushprasad.5398@gmail.com)
+---
 
+## Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,java&perline=6" />
 </div>
 
-##
+<br/>
+
+## Frontend
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&perline=5" />
+</div>
+
+<br/>
+
+## Backend &amp; Databases
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
+</div>
+
+<br/>
+
+## AI / ML &amp; Data Science
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas" />
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" title="Scikit-Learn" />
+</div>
+
+<br/>
+
+## Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,linux,bash,postman,arduino,flutter&perline=6" />
+</div>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-### Connect
+<img width="48%" src="https://gh-readme-stats.vercel.app/api?username=coditor-ops&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&hide_title=false" />
+&nbsp;
+<img width="48%" src="https://streak-stats.demolab.com/?user=coditor-ops&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=111111&fire=111111&currStreakLabel=111111&sideNums=111111&currStreakNum=111111&sideLabels=777777&dates=777777" />
 
-<a href="https://linkedin.com/in/pratush-prasad"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/pratushprasad_"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://kaggle.com/pratushprasad"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="https://www.leetcode.com/pratushprasad_"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://www.codechef.com/users/stud_hyena_28"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-<a href="https://www.hackerrank.com/25bai70559"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<br/><br/>
 
-</div>
-
-##
-
-<div align="center">
-
-### Tech Stack
-
-#### Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,java&theme=light" />
-
-#### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=light" />
-
-#### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light" />
-
-#### AI/ML & Data Science
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
-
-#### Tools & Others
-
-<img src="https://skillicons.dev/icons?i=git,linux,bash,postman,arduino,flutter&theme=light" />
+<img width="38%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=coditor-ops&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" />
 
 </div>
 
-##
+---
+
+## Contribution Graph
 
 <div align="center">
-
-### GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=coditor-ops&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coditor-ops&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&sideLabels=000000" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coditor-ops&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" />
-
+<img src="https://ghchart.rshah.org/coditor-ops" width="100%" />
 </div>
 
-##
+---
 
 <div align="center">
 
-### Achievements
+<sub>*"Simplicity is the ultimate sophistication."*</sub>
 
-<img src="https://github-profile-trophy.vercel.app/?username=coditor-ops&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-##
-
-<div align="center">
-  
-*"Simplicity is the ultimate sophistication"*
+<img src="https://komarev.com/ghpvc/?username=coditor-ops&label=views&color=000000&style=flat-square" />
 
 </div>
