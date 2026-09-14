@@ -94,19 +94,3 @@ Fun fact    : I am a Critical Thinker
 </div>
 
 ---
-
-## Contribution Graph
-
-<div align="center">
-<img src="https://ghchart.rshah.org/coditor-ops" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-<sub>*"Simplicity is the ultimate sophistication."*</sub>
-
-<img src="https://komarev.com/ghpvc/?username=coditor-ops&label=views&color=000000&style=flat-square" />
-
-</div>
